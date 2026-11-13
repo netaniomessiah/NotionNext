@@ -14,7 +14,7 @@ const CONFIG = {
   XUHOME_MENU_SEARCH: true, // 显示搜索入口
   XUHOME_SIDEBAR: true, // 桌面端显示侧边栏
   XUHOME_ARTICLE_RECOMMEND_POSTS: true, // 文章页显示推荐内容
-  XUHOME_UPTIME_ENABLE: true, // 显示站点运行时长
+  XUHOME_UPTIME_ENABLE: false, // 显示站点运行时长
   XUHOME_UPTIME_TITLE: '矩阵稳定运行第',
   XUHOME_UPTIME_SINCE: '2026-11-13', // 建站日期（YYYY-MM-DD）
 
